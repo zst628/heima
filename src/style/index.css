@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_1957648_gscuyvtssl.eot?t=1595320032235'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_1957648_gscuyvtssl.eot?t=1595320032235#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAMoAAsAAAAABygAAALZAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCEIF5ATYCJAMMCwgABCAFhG0HNRs+BhHVmy/IfhS4sRtfOVeUKNfzt55yDoIntKN/k8wqufuwS4Aqxd7qYJUbAFtzDtioCFWSPd/6kS/kgfKXpgOf53J6U/yu+pblMgeOMW3jUS/AOKBAxxoUyAYpkIC8YeyCF7geAjiKUAlp3LR1Z2IUu5sAMnrEsAHEhTCKslyMEDaMVWQ9AbFZYW4B66Lvy2dqSAyGwGL3bT+0yWDqv2v+brSdn87vHRCol3MCbBJYoBKgIH0b3d2xSboSFqcb1KiEEEUwS8XSNFIZlvCgfzwDEmLnZwBQDmYMvGvuSSHwbvQFGAAsACEQAR2AQZDNdQMWzcySZHMumSXb7nW9cyc3TrMGg3Gy71iBXWevns6//UivDNl5v9vdu/mmZaw8kE93HCyduf9wwWDnod7zN7vy3ltFMgfaBdt85qotmP7zD646vODQygPVOtwcP6/9m5NZHXmw57zx4/0n367YzJYzk+qaZcePnVm0+uI8U8fVq7dxbgTfqN6Gevy/cznPCZ1iT7S/XP+GnaI3cq12X90m/9RNunyp6m73xG9yX9zuzKk5lpaeWnJq6aX0ByA9Z6fa+gC2orn313/D8I5/yn5Za/+NvQLwuPbVF1E4PacMt8T35BH4x+qBVWpYwWbVVJ7K8lgq57pjAIcDUmx/Dp5Nt+QenA9CTO4MhojCsMSUIpWthABPLYTE1IOjIs0me3IyEYtoAlRgCYCQjeMwZOEsLNm4TSr7FAF5+IqQbGLh6Co55/SUEXTErRHjIDjD+Ac7UVKuTW5x4R31GgbOayPujbzYGNRFVc71mJCXGLB8dCOiQDFF6MBmGAJBZnI4SWFEcluWqulKxURxc6MR4yA4w/gHO1FSQX25VT5/R72GgTsEddk38mKbh7qoBpC9KQ0SPMoly0c3IgoUU4QOtMIQCHJzK4eTFGZCMrelU0sNNRXbW+L/bQAc9lJWjFhR7KSVjuMNJdxsAAAAAA==') format('woff2'),
+    url('//at.alicdn.com/t/font_1957648_gscuyvtssl.woff?t=1595320032235') format('woff'),
+    url('//at.alicdn.com/t/font_1957648_gscuyvtssl.ttf?t=1595320032235') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_1957648_gscuyvtssl.svg?t=1595320032235#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-suo:before {
+    content: "\e648";
+  }
+  
+  .icon-phone:before {
+    content: "\e66c";
+  }
+  
